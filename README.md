@@ -4,7 +4,7 @@
   </div>
 </a>
 
-<a href="https://github.com/makindajack/thib-tisha">
+<a href="https://github.com/chaliiwaui/thib-tisha">
   <div align="center">
     <picture>
       <source height="150px" media="(prefers-color-scheme: dark)" srcset="./public/img/logo/brand/brand-center-dark.png">
@@ -60,7 +60,7 @@ If you have any questions or concerns about contributing to the project, please 
 
 Made with 💙 by:-
 
-- [Jackson Makinda](https://github.com/makindajack) UX/UI Designer & Front-end Developer
+- [Jackson Makinda](https://github.com/chaliiwaui) UX/UI Designer & Front-end Developer
 - [Elia Mkumbo](https://github.com/Era360) Front-end & ML Developer
 - [Aloyce Nerey](https://github.com/BossNerey) React Developer
 - [Muhammed Singano](https://github.com/ms3c) C,C++, Java, & Python programmer.
