@@ -11,7 +11,7 @@
 
 <p align="center">
   Advanced 🛡️ 2-way-SMS-factor authentication ensuring online security.<br>
-  Front-end concept for a two-factor authentication service — landing page, sign-up, login, SMS code verification and a dashboard, built with Tailwind CSS and Flowbite.
+  Front-end concept for a two-factor authentication service - landing page, sign-up, login, SMS code verification and a dashboard, built with Tailwind CSS and Flowbite.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 📇 Description
 
-Thib-tisha ("verify" in Swahili) is a concept for a security product that adds a second factor to sign-in using 2-way SMS verification. This repository holds the **static front-end**: the marketing page and the sign-up → login → SMS-code → dashboard screens. There is no backend yet — forms do not submit anywhere and the SMS/2FA logic is not implemented.
+Thib-tisha ("verify" in Swahili) is a concept for a security product that adds a second factor to sign-in using 2-way SMS verification. This repository holds the **static front-end**: the marketing page and the sign-up → login → SMS-code → dashboard screens. There is no backend yet - forms do not submit anywhere and the SMS/2FA logic is not implemented.
 
 ## 📄 Pages
 
@@ -113,7 +113,7 @@ Deployed on Netlify at [thib-tisha.netlify.app](https://thib-tisha.netlify.app/)
 3. Make your changes, commit them and push them to your branch.
 4. Submit a pull request to the main repository.
 
-If you have any questions about contributing, reach out to the project contributors — contributions of all kinds are welcome.
+If you have any questions about contributing, reach out to the project contributors - contributions of all kinds are welcome.
 
 ### 👥 Contributors
 
